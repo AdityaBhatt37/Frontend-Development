@@ -1,6 +1,6 @@
 
 
-# 🌟 DevOps 07: Git & GitHub
+# 🌟 Day 1: Git & GitHub
 
 ## 📝 Key Concepts
 
@@ -553,6 +553,7 @@ git push -u origin main
 ```
 
 ---
+
 
 
 
